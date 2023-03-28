@@ -1,5 +1,5 @@
-b = int(input("Ingrese la Base :"))
-a = int(input("Ingrese la Altura"))
+b = float(input("Ingrese la Base : "))
+a = float(input("Ingrese la Altura : "))
 
 area = ((b*a)/2)
 
