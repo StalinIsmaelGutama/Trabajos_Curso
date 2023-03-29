@@ -5,5 +5,15 @@ después de que el usuario lo introduzca muestre por pantalla la cadena
 """
 
 nombre = input("Ingrese su nombre por favor: ")
-print("Hola", str(nombre), "gusto en conocerte")
 
+# Opcion 1
+print("Hola " + nombre + " gusto en conocerte")
+
+# Opcion 2
+print(f"Hola {nombre} gusto en conocerte")
+
+# Opcion 3
+print("Hola {} gusto en conocerte".format(nombre))
+
+# Opcion 4
+print("Hola",nombre,"gusto en conocerte")
