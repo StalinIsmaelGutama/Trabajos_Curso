@@ -26,7 +26,7 @@ if opción==1:
     else:
         print('El valor que ingreso no corresponde a un valor del menú')
 elif opción==2:
-    print('\tUsted eligio el tipo de pizzas no vegetarianas\nLos ingredientes disponibles son:\n1.Peperoni\n2.Jamón\nSalmon\nSolo puede elegir un ingrediente!!!')
+    print('\tUsted eligio el tipo de pizzas no vegetarianas\nLos ingredientes disponibles son:\n1.Peperoni\n2.Jamón\n3.Salmon\nSolo puede elegir un ingrediente!!!')
     ingredientesn=int(input('Escriba el numero del ingrediente que le quiere agregar a su pizza: '))
     if ingredientesn==1:
         print('Su pizza consta de Peperoni, mozzarella y tomate!!')
