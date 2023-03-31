@@ -21,6 +21,6 @@ total = salario * porcentaje
 
 print("El valor del impuesto a pagar es:", total)
 
-print("El salario que recibes es:",salario-total)
+print("El salario que recibes es:",salario-total) 
 
 
