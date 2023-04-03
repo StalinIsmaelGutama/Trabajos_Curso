@@ -31,6 +31,9 @@ for e in elementos:
         print(f"El numero {e} es negativo")
 """
 
+
+
+"""
 elementos = [0,1,-1,0,5,-2,-6,8,10,9,-3,-5,-10,0]
 
 ceros = []
@@ -49,3 +52,7 @@ for e in elementos:
 print(f"Los numeros de valor son: \n\t{ceros} ")
 print(f"Los numeros de valor positivo son: \n\t{positivos} ")
 print(f"Los numeros de valor negativo son: \n\t{negativos} ")
+"""
+
+
+
