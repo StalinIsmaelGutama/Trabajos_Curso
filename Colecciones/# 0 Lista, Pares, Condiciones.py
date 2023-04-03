@@ -8,7 +8,6 @@ for e in pares:
 
 
 
-
 """
 nombres = ["Sebastian","Sandro","Bruce","Emily","Ariel","Paul","Jhonnathan"]
 print(nombres)
@@ -16,6 +15,8 @@ print(nombres)
 for e in nombres:
     print(e.upper())
 """
+
+
 
 """
 elementos = [0,1,-1,0,5,-2,-6,8,10,9,-3,-5,-10,0]
