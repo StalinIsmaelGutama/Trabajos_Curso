@@ -38,4 +38,4 @@ print("El numero de elementos es: ",len(lista))
 
 #9. Comprobar si un elemento está en la lista:
 
-print("este elemento si esta y se repite: ",lista.count(10), "numero de veces" ) 
+print("este elemento si esta y se repite: ",lista.count(10), "numero de veces" )  
