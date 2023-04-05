@@ -99,4 +99,4 @@ for e in numeros:
 print(f"La suma de todos los elementos es: {suma} ")
 
 print(sum(numeros))
-"""
+""" 
