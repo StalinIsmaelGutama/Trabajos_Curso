@@ -95,4 +95,6 @@ for e in numeros:
      suma = e + suma
 
 print(f"La suma de todos los elementos es: {suma} ")
+
+print(sum(numeros))
 """
