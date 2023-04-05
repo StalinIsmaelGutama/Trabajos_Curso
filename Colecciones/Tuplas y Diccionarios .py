@@ -34,11 +34,13 @@ print(f"Los Profesores de Big Data son: \n\t{instituto['profesores']}")
 print(f"Las Notas finales son: \n\t{instituto['Notas']}")
 
 
-print("El promedio de las notas de la carrera de Big Data son:\n\t", sum(instituto["Notas"])/len(instituto["Notas"]))
-
+# print("El promedio de las notas de la carrera de Big Data son:\n\t", sum(instituto["Notas"])/len(instituto["Notas"]))
 
 suma = 0
 for e in instituto["Notas"]:
     suma += e
 
 print("El promedio de las notas de la carrera de Big Data son:\n\t", suma/len(instituto["Notas"]))
+
+# print("El promedio de las notas de la carrera de Big Data son:\n\t", round(suma/len(instituto["Notas"]),2)) # Para redondear o poner cierto numeros de decimales
+
