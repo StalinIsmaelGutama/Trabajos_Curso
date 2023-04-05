@@ -66,6 +66,8 @@ nombres = ['Sandro', 'Sebastian', 'Ariel', 'Paul', 'Bruce', 'Jhonnathan', 'Emily
 nombres.append("Preciado")
 
 print(nombres)
+
+# nombres.insert(2,'Preciado')
 """
 
 #Crea una lista con los números del 1 al 10 y muestra por pantalla el primer y el último elemento de la lista.
