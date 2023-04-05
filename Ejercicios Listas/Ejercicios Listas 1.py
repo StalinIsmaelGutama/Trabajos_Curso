@@ -46,4 +46,4 @@ num = input("ingrese un numero: ")
 if num in lista:
     print(f"El numero {num} esta en la lista")
 else:
-    print(f"El numero {num} no esta en la lista")
+    print(f"El numero {num} no esta en la lista") 
